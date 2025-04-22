@@ -1,0 +1,2 @@
+D:/Jenny/Documents/Fontys/Semesters/media/Group project/equine-integration-technical-prototype/android/app/.cxx/RelWithDebInfo/221i496r/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Jenny/Documents/Fontys/Semesters/media/Group project/equine-integration-technical-prototype/android/app/.cxx/RelWithDebInfo/221i496r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
