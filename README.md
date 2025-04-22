@@ -1,16 +1,8 @@
-# tech_prototype_equine_integration
+Front-end Flutter app that I worked on with others for a group project.
 
-A new Flutter project
+My contribution to the project was building the screens and functionalities for the tutorial on how to place a widget to the homescreen  for the older demographic of the app. The content of the tutorial is shown depending on whether the user is on iOS or Android:
 
-## Getting Started
+- The iOS version shows several screens on how to place a widget to the homescreen
+- The Android version shows a native prompt to place a widget to the homescreen without any other screens.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Downloadable APK is in the ```apk``` folder
